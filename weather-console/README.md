@@ -2,9 +2,9 @@
 
 Console tool designed to provide specific weather information for different geographic regions
 
-![head](https://github.com/mmarcode/playground/blob/master/weather-console/img/select_option.png)
-![head](https://github.com/mmarcode/playground/blob/master/weather-console/img/search_city.png)
-![head](https://github.com/mmarcode/playground/blob/master/weather-console/img/result.png)
+![head](https://github.com/mmarcode/playground/blob/master/weather-console/img/select_option.png)<br>
+![head](https://github.com/mmarcode/playground/blob/master/weather-console/img/search_city.png)<br>
+![head](https://github.com/mmarcode/playground/blob/master/weather-console/img/result.png)<br>
 ![head](https://github.com/mmarcode/playground/blob/master/weather-console/img/history.png)
 
 ## Usage
@@ -20,6 +20,11 @@ npm start
 ##
 
 This repository was created for practice purposes.
+
+## Endpoints
+
+- **[amadeus](https://developers.amadeus.com/self-service/category/destination-experiences/api-doc/city-search/api-reference)GET https://test.api.amadeus.com/v1/reference-data/locations/cities**: Finds cities that match a specific word or string of letters.
+- **[openweathermap](https://openweathermap.org/)GET https://api.openweathermap.org/data/2.5/weather**: Call current weather data.
 
 ## Contributing
 
