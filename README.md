@@ -21,4 +21,4 @@ Happy coding!
 
 | Project | Description |
 |--|--|
-|[matrix](https://github.com/mmarcode/playground/tree/master/matrix)| Computer simulation of an artificially designed world|
+|[matrix](https://github.com/mmarcode/playground/tree/master/matrix)| Computer simulation of an artificially designed world |
