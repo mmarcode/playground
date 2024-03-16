@@ -22,3 +22,4 @@ Happy coding!
 | Project | Description |
 |--|--|
 |[matrix](https://github.com/mmarcode/playground/tree/master/matrix)| Computer simulation of an artificially designed world |
+|[blackjack](https://github.com/mmarcode/playground/tree/master/blackjack)| Live the casino experience wherever you are! |
