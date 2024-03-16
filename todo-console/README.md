@@ -2,7 +2,7 @@
 
 Console tool designed to help users organize and manage their daily tasks efficiently.
 
-![head](https://github.com/mmarcode/todo-console/blob/master/img/todo-console.png)
+![head](https://github.com/mmarcode/playground/blob/master/todo-console/img/todo-console.png)
 
 ## Usage
 

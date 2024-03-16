@@ -1,6 +1,6 @@
 ## Blackjack js 
 
-![head](https://github.com/mmarcode/Learning/blob/master/blackjack/public/assets/img/blackjack.png)
+![head](https://github.com/mmarcode/playground/blob/master/blackjack/public/assets/img/blackjack.png)
 
 Steps to run the project
 

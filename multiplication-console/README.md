@@ -2,7 +2,7 @@
 
 This is an application to generate multiplication tables files.
 
-![head](https://github.com/mmarcode/multiplication-console/blob/master/img/multiplication_table.png)
+![head](https://github.com/mmarcode/playground/blob/master/multiplication-console/img/multiplication_table.png)
 
 ## Usage
 
