@@ -1,0 +1,21 @@
+{
+  "name": "todo-console",
+  "version": "0.0.1",
+  "description": "Console tool designed to help users organize and manage their daily tasks efficiently.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mmarcode",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "1.4.0",
+    "inquirer": "8.0.0",
+    "uuid": "9.0.1"
+  },
+  "engines": {
+    "node": "20.11.1",
+    "npm": "10.2.4"
+  }
+}
