@@ -23,3 +23,4 @@ Happy coding!
 |--|--|
 |[matrix](https://github.com/mmarcode/playground/tree/master/matrix)| Computer simulation of an artificially designed world |
 |[blackjack](https://github.com/mmarcode/playground/tree/master/blackjack)| Live the casino experience wherever you are! |
+|[multiplication-console](https://github.com/mmarcode/playground/tree/master/multiplication-console)| This is an application to generate multiplication tables files. |
