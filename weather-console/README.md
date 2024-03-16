@@ -23,8 +23,8 @@ This repository was created for practice purposes.
 
 ## Endpoints
 
-- **[amadeus](https://developers.amadeus.com/self-service/category/destination-experiences/api-doc/city-search/api-reference)GET https://test.api.amadeus.com/v1/reference-data/locations/cities**: Finds cities that match a specific word or string of letters.
-- **[openweathermap](https://openweathermap.org/)GET https://api.openweathermap.org/data/2.5/weather**: Call current weather data.
+- **[amadeus](https://developers.amadeus.com/self-service/category/destination-experiences/api-doc/city-search/api-reference) GET https://test.api.amadeus.com/v1/reference-data/locations/cities**: Finds cities that match a specific word or string of letters.
+- **[openweathermap](https://openweathermap.org/) GET https://api.openweathermap.org/data/2.5/weather**: Call current weather data.
 
 ## Contributing
 
