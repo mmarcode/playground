@@ -1,8 +1,8 @@
-# Playground
+# 👑 Playground
 
 Welcome to the Playground repository! This is a collection of various coding exercises, projects, and educational resources for learning and practicing different programming languages, algorithms, data structures, and more.
 
-## Contents
+## 📖 Contents
 
 - **Courses:** Explore a variety of programming courses covering different languages and topics.
 - **Projects:** Dive into hands-on projects to apply your coding skills and build real-world applications.
@@ -11,8 +11,14 @@ Welcome to the Playground repository! This is a collection of various coding exe
 
 Feel free to explore, contribute, and learn in this interactive coding playground!
 
-## How to Contribute
+## 🚀 How to Contribute
 
 If you'd like to contribute to this repository, please check out the [contribution guidelines](CONTRIBUTING.md) for more information on how to get started.
 
 Happy coding!
+
+## ✨ Projects
+
+| Project | Description |
+|--|--|
+|[matrix](https://github.com/mmarcode/playground/tree/master/matrix)| Computer simulation of an artificially designed world|
