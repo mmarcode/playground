@@ -1,0 +1,19 @@
+{
+  "name": "multiplication-console",
+  "version": "0.0.1",
+  "description": "console application to generate multiplication tables",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mmarcode",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "1.4.0",
+    "yargs": "17.7.2"
+  },
+  "engines": {
+    "node": "20.11.1",
+    "npm": "10.2.4"
+  }
+}
