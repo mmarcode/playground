@@ -18,6 +18,8 @@ Happy coding!
 
 ## ✨ Projects
 
+### [Node.js](https://nodejs.org/en)
+
 | Project | Description |
 |--|--|
 |[matrix](https://github.com/mmarcode/playground/tree/master/matrix)| Computer simulation of an artificially designed world |
@@ -25,3 +27,10 @@ Happy coding!
 |[multiplication-console](https://github.com/mmarcode/playground/tree/master/multiplication-console)| This is an application to generate multiplication tables files. |
 |[todo-console](https://github.com/mmarcode/playground/tree/master/todo-console)| Console tool designed to help users organize and manage their daily tasks efficiently. |
 |[weather-console](https://github.com/mmarcode/playground/tree/master/weather-console)| Console tool designed to provide specific weather information for different geographic regions. |
+
+
+### [Next.js](https://nextjs.org/)
+
+| Project | Description |
+|--|--|
+|[first-steps](https://github.com/mmarcode/playground/tree/master/first-steps)| This app is the outcome of my initial experience with Next.js, a React framework that makes building fast and efficient web applications easy.  |
