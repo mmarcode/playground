@@ -18,12 +18,17 @@ Happy coding!
 
 ## ✨ Projects
 
-### [Node.js](https://nodejs.org/en)
+### [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
 | Project | Description |
 |--|--|
 |[matrix](https://github.com/mmarcode/playground/tree/master/matrix)| Computer simulation of an artificially designed world |
 |[blackjack](https://github.com/mmarcode/playground/tree/master/blackjack)| Live the casino experience wherever you are! |
+
+### [Node.js](https://nodejs.org/en)
+
+| Project | Description |
+|--|--|
 |[multiplication-console](https://github.com/mmarcode/playground/tree/master/multiplication-console)| This is an application to generate multiplication tables files. |
 |[todo-console](https://github.com/mmarcode/playground/tree/master/todo-console)| Console tool designed to help users organize and manage their daily tasks efficiently. |
 |[weather-console](https://github.com/mmarcode/playground/tree/master/weather-console)| Console tool designed to provide specific weather information for different geographic regions. |
