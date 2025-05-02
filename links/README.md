@@ -1,4 +1,4 @@
-## Enlaces
+## Links
 
 This app is the outcome of my initial experience with TailwindCSS
 
