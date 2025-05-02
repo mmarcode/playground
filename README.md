@@ -33,9 +33,14 @@ Happy coding!
 |[todo-console](https://github.com/mmarcode/playground/tree/master/todo-console)| Console tool designed to help users organize and manage their daily tasks efficiently. |
 |[weather-console](https://github.com/mmarcode/playground/tree/master/weather-console)| Console tool designed to provide specific weather information for different geographic regions. |
 
-
 ### [Next.js](https://nextjs.org/)
 
 | Project | Description |
 |--|--|
 |[first-steps](https://github.com/mmarcode/playground/tree/master/first-steps)| This app is the outcome of my initial experience with Next.js, a React framework that makes building fast and efficient web applications easy.  |
+
+### [CSS](https://developer.mozilla.org/es/docs/Web/CSS)
+
+| Project | Description |
+|--|--|
+|[links](https://github.com/mmarcode/playground/tree/master/links)| This app is the outcome of my initial experience with TailwindCSS |
