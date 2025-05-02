@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: 'Cascadia Code';
+    src: url('/assets/CascadiaCode.woff2') format('woff2');
+    font-style: normal;
+    font-weight: 100 700;
+    font-display: swap;
+}
+
+@theme {
+    /* Colors */
+    --color-primary: #17191f;
+
+    /* Breakpoints */
+    --breakpoint-xs: 350px;
+
+    /* Font */
+    --font-sans: 'System UI', sans-serif;
+}
+
+.social-links {
+    @apply p-2 size-10 xs:size-12 flex items-center justify-center
+    rounded-full hover:scale-110 transition-transform duration-300;
+}
