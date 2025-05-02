@@ -8,7 +8,7 @@ This app is the outcome of my initial experience with TailwindCSS
 
 1. Clone the repository
 2. Run ```npm install``` to rebuild node modules
-3. Run ```npm run build:styles```
+3. Run ```npm run build:styles``` to compile your styles from a source file and generate them in an output file, and also automatically monitor changes
 
 This repository was created for practice purposes.
 
