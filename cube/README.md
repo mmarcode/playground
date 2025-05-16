@@ -1,6 +1,6 @@
 <div align="center">
 <h2>
-    Cube
+    Cubes
 </h2>
 </div>
 
