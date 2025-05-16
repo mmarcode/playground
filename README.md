@@ -44,6 +44,7 @@ Happy coding!
 | Project | Description |
 |--|--|
 |[links](https://github.com/mmarcode/playground/tree/master/links)| This app is the outcome of my initial experience with TailwindCSS |
+|[cubes](https://github.com/mmarcode/playground/tree/master/cube)| In this project, cubes are drawn |
 
 
 <div align="center">
