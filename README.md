@@ -44,3 +44,8 @@ Happy coding!
 | Project | Description |
 |--|--|
 |[links](https://github.com/mmarcode/playground/tree/master/links)| This app is the outcome of my initial experience with TailwindCSS |
+
+
+<div align="center">
+  🌵 <strong>Crafted by — mmarcode</strong>
+</div>
