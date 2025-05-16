@@ -1,10 +1,10 @@
 <div align="center">
 <h2>
-    Matrix JS
+    Cube
 </h2>
 </div>
 
-<img src="images/matrix.webp"></img>
+<img src="images/cubes.webp"></img>
 
 
 <div align="center">
