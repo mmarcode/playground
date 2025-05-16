@@ -1,3 +1,12 @@
-## Matrix js
+<div align="center">
+<h2>
+    Matrix JS
+</h2>
+</div>
 
-![head](https://github.com/mmarcode/playground/blob/master/matrix/images/matrix.png)
+<img src="images/matrix.webp"></img>
+
+
+<div align="center">
+  🌵 <strong>Crafted by — mmarcode</strong>
+</div>
