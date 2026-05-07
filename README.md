@@ -48,6 +48,12 @@ Happy coding!
 
 
 <div align="center">
-  <img src="icons/chess-pawn.svg" width="24" height="24" alt="Pawn" align="middle">
-  <strong>Crafted by — mmarcode</strong>
+  <table>
+    <tr>
+      <td style="border:none;">
+        <img src="icons/chess-pawn.svg" width="22" height="22" alt="Pawn">
+        <strong>Crafted by — mmarcode</strong>
+      </td>
+    </tr>
+  </table>
 </div>
