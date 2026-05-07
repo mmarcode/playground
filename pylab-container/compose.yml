@@ -1,0 +1,19 @@
+services:
+  python:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: development
+
+    container_name: pylab-container
+
+    working_dir: /app
+
+    volumes:
+      - ./:/app
+
+    tty: true
+    stdin_open: true
+
+    env_file:
+      - .env
