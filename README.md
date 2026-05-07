@@ -47,6 +47,11 @@ Happy coding!
 |[cubes](https://github.com/mmarcode/playground/tree/master/cube)| In this project, cubes are drawn |
 
 
+### [Python](https://developers.google.com/edu/python?hl=es-41)
+|--|--|
+| Hi | First steps |
+
+<br/>
 <div align="center">
   <sub><img src="icons/chess-pawn.svg" width="20" height="20"></sub>
   <strong>Crafted by — mmarcode</strong>
