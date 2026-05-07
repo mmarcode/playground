@@ -48,8 +48,10 @@ Happy coding!
 
 
 ### [Python](https://developers.google.com/edu/python?hl=es-41)
+
+| Project | Description |
 |--|--|
-| Hi | First steps |
+| Hi Pyhton | First steps |
 
 <br/>
 <div align="center">
