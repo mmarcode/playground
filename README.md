@@ -48,5 +48,6 @@ Happy coding!
 
 
 <div align="center">
-  <img src="icons/chess-pawn.svg" width="24" height="24" alt="Pawn"><strong>Crafted by — mmarcode</strong>
+  <img src="icons/chess-pawn.svg" width="24" height="24" alt="Pawn" align="middle">
+  <strong>Crafted by — mmarcode</strong>
 </div>
