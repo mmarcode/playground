@@ -48,5 +48,7 @@ Happy coding!
 
 
 <div align="center">
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik01IDIwYTIgMiAwIDAgMSAyLTJoMTBhMiAyIDAgMCAxIDIgMnYxYTEgMSAwIDAgMS0xIDFINmExIDEgMCAwIDEtMS0xeiIvPjxwYXRoIGQ9Im0xNC41IDEwIDEuNSA4Ii8+PHBhdGggZD0iTTcgMTBoMTciLz48cGF0aCBkPSJtOCAxOCAxLjUtOCIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iNiIgcj0iNCIvPjwvc3ZnPg==" width="24" height="24" /><strong>Crafted by — mmarcode</strong>
+  <img src="icons/chess-pawn.svg" width="24" height="24" alt="Pawn">
+  <br>
+  <strong>Crafted by — mmarcode</strong>
 </div>
